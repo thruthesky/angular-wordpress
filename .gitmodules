@@ -1,0 +1,3 @@
+[submodule "src/app/angular-wordpress-api"]
+	path = src/app/angular-wordpress-api
+	url = https://github.com/thruthesky/angular-wordpress-api
